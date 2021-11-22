@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(11, 11, 58);
+  margin-left: 10px;
+}
+.header {
+  color: white;
+  margin-left: 10px;
+}
+
+.section {
+  color: yellowgreen;
+  margin-left: 10px;
+}
+.section-b {
+  color: rgba(255, 255, 255, 0.842);
+  margin-left: 10px;
+  font-size: 20px;
+}
+.section-p {
+  color: white;
+  margin-left: 10px;
+  font-size: 18px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.footer {
+  margin-left: 30px;
+  color: tomato;
+  font-size: 22px;
+}
+.section-div {
+  font-size: 18px;
+  color: white;
+  margin-left: 15px;
+}
