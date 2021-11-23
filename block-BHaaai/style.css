@@ -1,0 +1,43 @@
+body {
+  background-color: #22396a;
+  padding: 20px;
+}
+.header {
+  text-align: center;
+  color: white;
+}
+.header-add {
+  font-size: 20px;
+}
+.hero-section {
+  margin: 0 30px;
+}
+h1 {
+  font-size: 40px;
+}
+.section-h2 {
+  color: yellowgreen;
+  font-size: 30px;
+}
+.section-h3 {
+  color: white;
+  font-size: 25px;
+}
+.section-p {
+  color: white;
+  font-size: 20px;
+}
+.footer {
+  height: 40%;
+  width: 98%;
+  background-color: #11244d;
+  /* border: 2px solid rgb(43, 122, 226); */
+  text-align: center;
+  color: crimson;
+  font-size: 20px;
+  margin: auto;
+  padding: 15px 0;
+}
+.footer-1 {
+  margin-left: 20px;
+}
