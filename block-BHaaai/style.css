@@ -1,0 +1,31 @@
+body {
+  background-color: #22396a;
+  padding: 20px;
+}
+.header {
+  text-align: center;
+  color: white;
+}
+.section-h2 {
+  color: yellowgreen;
+}
+.section-h3 {
+  color: white;
+}
+.section-p {
+  color: white;
+}
+.footer {
+  height: 40%;
+  width: 98%;
+  background-color: rgb(43, 122, 226);
+  border: 2px solid rgb(43, 122, 226);
+  text-align: center;
+  color: crimson;
+  font-size: 20px;
+  margin: auto;
+  padding-left: 30px;
+}
+.footer-1 {
+  margin-left: 20px;
+}
